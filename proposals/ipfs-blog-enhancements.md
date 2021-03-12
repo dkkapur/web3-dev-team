@@ -4,7 +4,7 @@ Author: @jessicaschilling
 
 Initial PR: https://github.com/protocol/web3-dev-team/pull/74 
 
-Larger-scale proposal for overall ipfs.io work (deprecated, as broken into smaller pieces): https://github.com/protocol/web3-dev-team/blob/ipfsio-modular-rework/proposals/ipfsio-modular-rework.md
+Larger-scale proposal for overall ipfs.io work: https://github.com/protocol/web3-dev-team/blob/ipfsio-modular-rework/proposals/ipfsio-modular-rework.md
 
 Project tracking board for overall ipfs.io work: https://github.com/orgs/ipfs/projects/11
 
@@ -42,22 +42,16 @@ _How would a developer or user use this new capability?_
 #### Impact
 _How would this directly contribute to web3 dev stack product-market fit?_
 
-<!--
-Explain how this addresses known challenges or opportunities.
-What awesome potential impact/outcomes/results will we see if we nail this project?
--->
-
 #### Leverage
 _How much would nailing this project improve our knowledge and ability to execute future projects?_
 
-<!--
-Explain the opportunity or leverage point for our subsequent velocity/impact (e.g. by speeding up development, enabling more contributors, etc)
--->
 
 #### Confidence
 _How sure are we that this impact would be realized? Label from [this scale](https://medium.com/@nimay/inside-product-introduction-to-feature-priority-using-ice-impact-confidence-ease-and-gist-5180434e5b15)_.
 
-<!--Explain why this rating-->
+- **Impact = 8** (opportunity to resolve neglected media page with something easy to maintain; making posting significantly easier speeds blog post delivery; tagging and search significantly improve user experience AND add metrics collection points)
+- **Confidence = 10** (effort will directly resolve known pain points, including deployment woes, image size, difficulty of posting, no search functionality, etc)
+- **Ease = 5** (lots of moving parts, but few outright technical challenges in the work itself)
 
 
 ## Project definition
